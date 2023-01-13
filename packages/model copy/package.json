@@ -1,7 +1,7 @@
 {
   "name": "@zightech/model-model",
   "main": "lib/index.js",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "private": false,
   "license": "MIT",
   "publishConfig": {
@@ -22,5 +22,5 @@
   "files": [
     "lib"
   ],
-  "gitHead": "cc2d1d69109b94ee90a028c46be0c97d53a2ee62"
+  "gitHead": "846d09c8a173186f85078925164590b2027be171"
 }
